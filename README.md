@@ -5,10 +5,11 @@
 </p>
 
 ### 🧰 Languages and Tools
-    [![My Skills](https://skillicons.dev/icons?i=html,css,ps,pr,figma,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ps,pr,figma,discord,vscode)](https://skillicons.dev)
+
 
 ### 📚👀 I am currently learning
-    [![My Skills](https://skillicons.dev/icons?i=js,py,ae,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ae,bots,wordpress)](https://skillicons.dev)
 
 <details>
   <summary><h3 align="center">📫 How to reach me: </h3></summary>
