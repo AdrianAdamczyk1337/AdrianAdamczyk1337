@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, Adrian Adamczyk here!</h1>
-<h3 align="center">A beginner backend developer</h3>
-<h3 align="center">Projects will be added soon</h3>
-<p align="center">
+<h1 align="left">Hi 👋, Adrian Adamczyk here!</h1>
+<h3 align="left">A beginner backend developer</h3>
+<h3 align="left">Projects will be added soon</h3>
+<p align="left">
 </p>
 
 ### 🧰 Languages and Tools</h3>
@@ -19,7 +19,7 @@
 
 <details>
   <summary><h3 align="left">📫 How to reach me? Click below! </h3></summary>
-<div align="center"> 
+<div align="left"> 
   <a href="https://www.linkedin.com/in/adrian-adamczyk-ln/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
