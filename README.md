@@ -7,7 +7,7 @@
 ### 🧰 Languages and Tools</h3>
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ps,pr,figma,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ps,pr,figma,vscode)](https://skillicons.dev)
 
 
 ### 📚👀 I am currently learning</h3>
