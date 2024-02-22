@@ -10,10 +10,10 @@
 
 ### 📚👀 I am currently learning
 [![My Skills](https://skillicons.dev/icons?i=js,py,ae,bots,wordpress)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
 <details>
   <summary><h3 align="center">📫 How to reach me: </h3></summary>
 ....
+[![My Skills](https://skillicons.dev/icons?i=discord,linkedin&perline=1)](https://skillicons.dev)
 <!--- DISCORD_LOGO: adrian.it
 LINKEDIN_LOGO 
 --->
