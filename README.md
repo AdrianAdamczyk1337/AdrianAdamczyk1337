@@ -17,6 +17,9 @@
 
 <h3 align="left">📫 How to reach me: </h3>
 ....
+<!--- DISCORD_LOGO: adrian.it
+LINKEDIN_LOGO 
+--->
 
 <!---
 AdrianAdamczyk1337/AdrianAdamczyk1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
