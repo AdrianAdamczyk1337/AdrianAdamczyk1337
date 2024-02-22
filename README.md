@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, Adrian Adamczyk here!</h1>
 <h3 align="center">A beginner backend developer</h3>
 <h3 align="center">Projects will be added soon</h3>
-<p align="left">
+<p align="center">
 </p>
 
-<h3 align="center"> 🧰 Languages and Tools</h3>
+### 🧰 Languages and Tools</h3>
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,ps,pr,figma,discord,vscode)](https://skillicons.dev)
 
 
-<h3 align="center"> 📚👀 I am currently learning</h3>
+### 📚👀 I am currently learning</h3>
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,ae,bots,wordpress)](https://skillicons.dev)
@@ -18,7 +18,7 @@
 
 
 <details>
-  <summary><h3 align="center">📫 How to reach me? Click below! </h3></summary>
+  <summary><h3 align="left">📫 How to reach me? Click below! </h3></summary>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/adrian-adamczyk-ln/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
