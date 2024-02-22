@@ -4,11 +4,15 @@
 <p align="left">
 </p>
 
-### 🧰 Languages and Tools
+<h3 align="center"> 🧰 Languages and Tools</h3>
+</br>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,ps,pr,figma,discord,vscode)](https://skillicons.dev)
 
 
-### 📚👀 I am currently learning
+<h3 align="center"> 📚👀 I am currently learning</h3>
+</br>
+
 [![My Skills](https://skillicons.dev/icons?i=js,py,ae,bots,wordpress)](https://skillicons.dev)
 
 
