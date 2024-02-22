@@ -17,6 +17,7 @@
   <summary><h3 align="center">📫 How to reach me? Click below! </h3></summary>
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) adrian.it  
+  
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adrian-adamczyk-ln/)
 
 
