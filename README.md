@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, Adrian Adamczyk here!</h1>
+<h1 align="Center">Hi 👋, Adrian Adamczyk here!</h1>
 <h3 align="left">A beginner backend developer</h3>
 <h3 align="left">Projects will be added soon</h3>
 <p align="left">
