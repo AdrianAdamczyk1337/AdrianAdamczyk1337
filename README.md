@@ -17,7 +17,7 @@
   <summary><h3 align="center">📫 How to reach me? Click below! </h3></summary>
   
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adrian-adamczyk-ln/)
-<p style="font-size:200%;">Click me!</p>
+<p style="font-size:100%;">Click me!</p>
 
 
 
