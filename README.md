@@ -14,9 +14,9 @@
   <summary><h3 align="center">📫 How to reach me: </h3></summary>
 
 [![My Skills](https://skillicons.dev/icons?i=discord,linkedin&perline=1)](https://skillicons.dev)
-<!--- DISCORD_LOGO: adrian.it
+DISCORD_LOGO: adrian.it
 LINKEDIN_LOGO 
---->
+
 
 <!---
 AdrianAdamczyk1337/AdrianAdamczyk1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
