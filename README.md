@@ -15,8 +15,6 @@
 
 <details>
   <summary><h3 align="center">📫 How to reach me? Click below! </h3></summary>
-  
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]()
 <div align="center"> 
   <a href="https://www.linkedin.com/in/adrian-adamczyk-ln/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
