@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Adrian here!</h1>
-<h3 align="center">A beginner backend developer</h3>
-<h3 align="center">Projects will be added soon</h3>
+<h3 align="center">A ethusiast of programming and video editor</h3>
+<h3 align="center">Projects will be added soon :)</h3>
 <p align="left">
 </p>
 
