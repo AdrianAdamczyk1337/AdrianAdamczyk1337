@@ -14,7 +14,7 @@
   <summary><h3 align="center">📫 How to reach me: </h3></summary>
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) adrian.it  
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) 
+<a href="">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a> 
 
 
 <!---
