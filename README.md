@@ -13,9 +13,8 @@
 <details>
   <summary><h3 align="center">📫 How to reach me: </h3></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=discord,linkedin&perline=1)](https://skillicons.dev)
-DISCORD_LOGO: adrian.it
-LINKEDIN_LOGO 
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) adrian.it
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) 
 
 
 <!---
