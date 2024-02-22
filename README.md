@@ -9,7 +9,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,ps,pr,figma,vscode)](https://skillicons.dev)
 
-
 ### 📚👀 I am currently learning</h3>
 </br>
 
