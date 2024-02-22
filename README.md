@@ -16,7 +16,7 @@
 </p>
 
 <details>
-<h3 align="left">📫 How to reach me: </h3>
+  <summary><h3 align="left">📫 How to reach me: </h3></summary>
 ....
 <!--- DISCORD_LOGO: adrian.it
 LINKEDIN_LOGO 
